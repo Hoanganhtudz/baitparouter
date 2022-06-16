@@ -1,0 +1,9 @@
+let Data = [
+    { id: 1, title: 'Sản phẩm 1', avatar: 'https://scontent-hkt1-1.xx.fbcdn.net/v/t39.30808-1/286816492_1417470382101238_4544900610893011652_n.jpg?stp=dst-jpg_p320x320&_nc_cat=108&ccb=1-7&_nc_sid=7206a8&_nc_ohc=xh30rNBMccUAX-_m9wv&_nc_ht=scontent-hkt1-1.xx&oh=00_AT_enB-q9tOIgl4m-KqiYpIyvIOK8c9yIUOUMlCJcX-BIQ&oe=62B0B5DF', content: 'mình là thiện' },
+    { id: 2, title: 'Sản phẩm 2', avatar: 'https://scontent-hkt1-1.xx.fbcdn.net/v/t39.30808-1/286816492_1417470382101238_4544900610893011652_n.jpg?stp=dst-jpg_p320x320&_nc_cat=108&ccb=1-7&_nc_sid=7206a8&_nc_ohc=xh30rNBMccUAX-_m9wv&_nc_ht=scontent-hkt1-1.xx&oh=00_AT_enB-q9tOIgl4m-KqiYpIyvIOK8c9yIUOUMlCJcX-BIQ&oe=62B0B5DF', content: 'thiện yêu mọi người' },
+    { id: 3, title: 'Sản phẩm 3', avatar: 'https://scontent-hkt1-1.xx.fbcdn.net/v/t39.30808-1/286816492_1417470382101238_4544900610893011652_n.jpg?stp=dst-jpg_p320x320&_nc_cat=108&ccb=1-7&_nc_sid=7206a8&_nc_ohc=xh30rNBMccUAX-_m9wv&_nc_ht=scontent-hkt1-1.xx&oh=00_AT_enB-q9tOIgl4m-KqiYpIyvIOK8c9yIUOUMlCJcX-BIQ&oe=62B0B5DF', content: 'content' },
+    { id: 4, title: 'Sản phẩm 4', avatar: 'https://scontent-hkt1-1.xx.fbcdn.net/v/t39.30808-1/286816492_1417470382101238_4544900610893011652_n.jpg?stp=dst-jpg_p320x320&_nc_cat=108&ccb=1-7&_nc_sid=7206a8&_nc_ohc=xh30rNBMccUAX-_m9wv&_nc_ht=scontent-hkt1-1.xx&oh=00_AT_enB-q9tOIgl4m-KqiYpIyvIOK8c9yIUOUMlCJcX-BIQ&oe=62B0B5DF', content: 'content' },
+    { id: 5, title: 'Sản phẩm 5', avatar: 'https://scontent-hkt1-1.xx.fbcdn.net/v/t39.30808-1/286816492_1417470382101238_4544900610893011652_n.jpg?stp=dst-jpg_p320x320&_nc_cat=108&ccb=1-7&_nc_sid=7206a8&_nc_ohc=xh30rNBMccUAX-_m9wv&_nc_ht=scontent-hkt1-1.xx&oh=00_AT_enB-q9tOIgl4m-KqiYpIyvIOK8c9yIUOUMlCJcX-BIQ&oe=62B0B5DF', content: 'content' },
+    
+]
+export default Data
